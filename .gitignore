@@ -1,0 +1,9 @@
+# Ignore all cargo output files
+**/target/
+**/Cargo.lock
+
+
+# Ignore all files without extensions (i.e. executables)
+*
+!/**/
+!*.*
