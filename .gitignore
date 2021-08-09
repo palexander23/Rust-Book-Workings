@@ -6,3 +6,6 @@
 # Ignore all cargo output files
 **/*/target/**
 **/Cargo.lock
+
+# Ignore txt files used in some demos
+**/*.txt
