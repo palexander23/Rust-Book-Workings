@@ -233,9 +233,9 @@ impl<T: Display + PartialOrd> Pair<T> {
 // using the same logic.
 // Therefore the ToString Trait is implemented for any type with the Display trait using 
 // the following syntax:
-impl<T: Display> _ToString for T {
-    fn
-}
+
+// impl<T: Display> _ToString for T {
+    
 
 fn main() {
     summary_demo();
