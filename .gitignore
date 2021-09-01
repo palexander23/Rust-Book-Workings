@@ -9,3 +9,6 @@
 
 # Ignore txt files used in some demos
 **/*.txt
+
+# Ignore all .vscode config files within subfolders
+**/.vscode/*
